@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Russkyc.UI.Avalonia.Gallery.Browser",
   "resources": {
-    "hash": "sha256-W/liHmwQsqkEXbfKsABmPEy6UEXatG3QH50xBvxLoS0=",
+    "hash": "sha256-qdD9YUuaFNHGt0E22SHgBKM1plJwAXW+6hcVKYH6onk=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-9Fzd5We95Rp03dEKIAbYjPDR3eWyLbmjMlYStvxyiok="
     },
@@ -18,9 +18,9 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Avalonia.Base.wasm": "sha256-FasjVhBOB1t/zLyA6v0EwvI/rCwxnRTnx+98bGS6Pis=",
+      "Avalonia.Base.wasm": "sha256-Bl7QIPF4G8ah+R27g7NcrBl9xs03KzNC2HqqO9r4ZfE=",
       "Avalonia.Browser.wasm": "sha256-7voJ+QmQ2bHarnbcbMyWOkLMrRhA2SifDDj6k/rcM4c=",
-      "Avalonia.Controls.wasm": "sha256-88eiTB9NKvTLy8Kn5FYgfo6AWgQssE+LdfrBBExMAC8=",
+      "Avalonia.Controls.wasm": "sha256-N40vukuLox6fLgO3mb6vU01WkKspvaHTF0PPo61gdFE=",
       "Avalonia.Fonts.Inter.wasm": "sha256-tv0nKX+2VCikqPPZ6NZoXFtM/P2TEFjQAoeazZ6va0s=",
       "Avalonia.Markup.wasm": "sha256-+6zUwqhA3S0alCPSUiLlA3wRRu69TN15j6wJSlS5SO0=",
       "Avalonia.Markup.Xaml.wasm": "sha256-SgsAKlJI34vTrwadHQ/swLMtx2sjGSDkTsce7P0y7S4=",
@@ -32,9 +32,9 @@
       "Avalonia.Xaml.Interactivity.wasm": "sha256-0Px9kfRJrJd1ybFME2D/GAFB/dThy1fYmfNeoVcPDE8=",
       "CommunityToolkit.Mvvm.wasm": "sha256-ov7wTwnImGSDsYThXjP7IxWMyqDpo4lSdRn7pstmNX0=",
       "HarfBuzzSharp.wasm": "sha256-ZbI0N5SRRD2k2cBzqSlc0wGBoA/JA+rU+Rk+ibNna0M=",
-      "Russkyc.UI.Avalonia.Gallery.Browser.wasm": "sha256-RGtVhg6byVzhX5jJL0+ly+DPR1sLKIXU7Vn6uQK/Bek=",
-      "Russkyc.UI.Avalonia.Gallery.wasm": "sha256-0jAg4SCgLGUj0+9u9+KSWQiwZ6ZHGIKnhQBhJtxKjiQ=",
-      "Russkyc.UI.Avalonia.wasm": "sha256-xS8CRTvJVUwr9PJ19bB5CUJVp5DSMmxVsrej3T3BWFU=",
+      "Russkyc.UI.Avalonia.Gallery.Browser.wasm": "sha256-aW68Lw/Mk/9cE13V8wahtxkC7sE+NJ7G04ksMusaFCs=",
+      "Russkyc.UI.Avalonia.Gallery.wasm": "sha256-BXYCG+EBSugN7hE4O2v96rioBnii2eZehx9gmo9oqKY=",
+      "Russkyc.UI.Avalonia.wasm": "sha256-JZcuRXbmEXNOu+Y9C6sxtMPlChkhny4bFNOG81bLwEY=",
       "SkiaSharp.wasm": "sha256-DpuV3wjtuf+mo7AdgXDY+ONDsDD8iepT6hZourzbf68=",
       "System.Collections.Concurrent.wasm": "sha256-qd1DaqopNuPGF2VJ2qU4oGvoT6rX0jirHyDWL/rpiLw=",
       "System.Collections.NonGeneric.wasm": "sha256-i36qMpmJDadHRlIc/l3s9c/v/wvvm/fexFb2HU8euTw=",
